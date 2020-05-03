@@ -1,4 +1,4 @@
-# How Canadian federal candidadtes retweeted in the 2019 election
+# How Canadian federal candidates retweeted in the 2019 election
 
 An analysis of how federal candidates in the 2019 Canadian general election retweeted, and how much they retweeted bots.
 
